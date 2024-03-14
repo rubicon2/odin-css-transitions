@@ -20,7 +20,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'New Webpack Project',
+      title: 'CSS Transitions',
     }),
   ],
 };
